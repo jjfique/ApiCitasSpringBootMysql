@@ -36,6 +36,26 @@ actualizar medico
 eliminar medico 
 ![image](https://github.com/jjfique/ApiCitasSpringBootMysql/assets/31571516/28de23a3-b550-4208-8934-c345eef22faa)
 ### Api Citas
+Crear cita 
+![image](https://github.com/jjfique/ApiCitasSpringBootMysql/assets/31571516/66794ceb-d172-4baa-aad0-bbfb35cac4c9)
+Consultar citas 
+![image](https://github.com/jjfique/ApiCitasSpringBootMysql/assets/31571516/fc52d919-a4dd-406e-a1e0-d372be87149b)
+Consultar cita especifica 
+![image](https://github.com/jjfique/ApiCitasSpringBootMysql/assets/31571516/0d997bb1-f36b-4060-a9f9-9502dba0768d)
+actualizar cita 
+![image](https://github.com/jjfique/ApiCitasSpringBootMysql/assets/31571516/f6be52b1-6173-4509-9bf5-2ec14d4fc427)
+cunsulta de la cita modificada 
+![image](https://github.com/jjfique/ApiCitasSpringBootMysql/assets/31571516/ca53560b-cf3f-496b-b73e-656058c7fbd1)
+eliminar cita 
+![image](https://github.com/jjfique/ApiCitasSpringBootMysql/assets/31571516/db825aaf-09c3-45a4-bc04-2ab7a74481a8)
+verificar que la cita se elimino 
+![image](https://github.com/jjfique/ApiCitasSpringBootMysql/assets/31571516/73b0b68b-c74e-4b2d-bb80-bb46c9feca09)
+
+
+
+
+
+
 
 
 
